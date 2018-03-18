@@ -1,4 +1,4 @@
-# Error codes for Binance (2017-12-01)
+# Error codes for Binance (2017-12-01) service response code
 Errors consist of two parts: an error code and a message. Codes are universal,
  but messages can vary. Here is the error JSON payload:
 ```javascript
